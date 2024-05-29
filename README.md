@@ -13,9 +13,10 @@ The code relies on the following Python 3.9.XX + libs. Packages needed are:
 * Scikit-learn
 
 All dependencies in requirements.txt
-## Usage
 
-Install all needed dependencies:
+## Installation/Usage
+
+Create python env and install all needed dependencies:
 
     conda create -n "braintumor" python=3.9
 
