@@ -1,6 +1,6 @@
 # Title Article
 
-This repository is the official code for the paper "Title article" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
+This repository is the official code for the paper "A Novel Diagnostic Decision-support System for Brain Tumor Detection and Classification in MRI Scans" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
 
 ## Citation
 If you find the project codes useful for your research, please consider citing
@@ -8,14 +8,14 @@ If you find the project codes useful for your research, please consider citing
 
 ```
 @ARTICLE{,
-  author={},
+  author={De Benedictis, Serena Grazia and Gargano, Grazia and Settembre, Gaetano},
   journal={}, 
-  title={}, 
+  title={A Novel Diagnostic Decision-support System for Brain Tumor Detection and Classification in MRI Scans}, 
   year={},
   volume={},
   number={},
   pages={},
-  keywords={},
+  keywords={Brain tumors, Decision-support system, Magnetic resonance imaging, Topological data analysis, Classification, Machine learning},
   doi={}}
 
 ```
