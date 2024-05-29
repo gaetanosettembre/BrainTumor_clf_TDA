@@ -7,6 +7,7 @@ This repository is the official code for the paper "Title article" by Serena Gra
 The code relies on the following Python 3.9.XX + libs. Packages needed are:
  
 * Ripser
+* Tensorly
 * OpenCV
 * Numpy
 * Matplotlib

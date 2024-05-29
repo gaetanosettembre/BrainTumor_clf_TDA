@@ -1,3 +1,14 @@
 numpy
 matplotlib
 ripser==0.6.8
+scikit-learn
+tqdm
+tensorly
+scipy
+opencv-python
+scikit-image
+os
+time
+
+
+
