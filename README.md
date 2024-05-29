@@ -16,8 +16,12 @@ All dependencies in requirements.txt
 ## Usage
 
 Install all needed dependencies:
+    conda create -n "braintumor" python=3.9 ipython
+
+    conda activate braintumor
 
     pip install -r requirements.txt
+    
 ## Data
 
 The dataset used is available [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) (from Kaggle.com).
