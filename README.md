@@ -1,7 +1,25 @@
-
 # Title Article
 
 This repository is the official code for the paper "Title article" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
+
+## Citation
+If you find the project codes useful for your research, please consider citing
+
+
+```
+@ARTICLE{,
+  author={},
+  journal={}, 
+  title={}, 
+  year={},
+  volume={},
+  number={},
+  pages={},
+  keywords={},
+  doi={}}
+
+```
+
 ## Dependencies
 
 The code relies on the following Python 3.9.XX + libs. Packages needed are:
@@ -32,20 +50,3 @@ The dataset used is available [here](https://www.kaggle.com/datasets/masoudnickp
 ## Results
 
 Insert result images!!!!
-## Citation
-If you find the project codes useful for your research, please consider citing
-
-
-```
-@ARTICLE{,
-  author={},
-  journal={}, 
-  title={}, 
-  year={},
-  volume={},
-  number={},
-  pages={},
-  keywords={},
-  doi={}}
-
-```
