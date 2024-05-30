@@ -2,6 +2,9 @@
 
 This repository is the official code for the paper "A Novel Diagnostic Decision-support System for Brain Tumor Detection and Classification in MRI Scans" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
 
+![Workflow](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/workflow_BT.png?raw=true)
+
+
 ## Citation
 If you find the project codes useful for your research, please consider citing
 
@@ -49,4 +52,8 @@ The dataset used is available [here](https://www.kaggle.com/datasets/masoudnickp
 
 ## Results
 
-Insert result images!!!!
+Classification results:
+![Confusion Matrix and Classification report](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/res_cls.png?raw=true)
+
+Examples of extracted ROIs:
+![ROIs](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/ROI-2.png?raw=true)
