@@ -19,7 +19,8 @@ If you find the project codes useful for your research, please consider citing
   number={},
   pages={},
   keywords={Brain tumors, Decision-support system, Magnetic resonance imaging, Topological data analysis, Classification, Machine learning},
-  doi={}}
+  doi={}
+}
 
 ```
 
