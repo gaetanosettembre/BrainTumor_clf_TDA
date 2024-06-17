@@ -57,4 +57,7 @@ Classification results:
 ![Confusion Matrix and Classification report](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/res_cls.png?raw=true)
 
 Examples of extracted ROIs:
-![ROIs](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/ROI-2.png?raw=true)
+![ROI_glioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_glioma.png)
+![ROI_meningioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_miningioma.png)
+![ROI_pituitary](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_pituitary.png)
+![ROI_notumor](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_notumor.png)
