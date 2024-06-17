@@ -58,6 +58,6 @@ Classification results:
 
 Examples of extracted ROIs:
 ![ROI_glioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_glioma.png)
-![ROI_meningioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_miningioma.png)
+![ROI_meningioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_meningioma.png)
 ![ROI_pituitary](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_pituitary.png)
 ![ROI_notumor](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_notumor.png)
