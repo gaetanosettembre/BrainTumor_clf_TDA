@@ -29,6 +29,9 @@ identifiers:
   - type: url
     value: 'http://dx.doi.org/10.11111/XXXXX.XXX'
 repository-code: 'https://github.com/gaetanosettembre/BrainTumor'
+license: GPL-3.0
+preferred-citation:
+  type: article
 abstract: Abstract here.
 keywords:
   - Brain tumor classification
