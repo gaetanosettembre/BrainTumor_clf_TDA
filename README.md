@@ -1,6 +1,6 @@
 # Title Article
 
-This repository is the official code for the paper "A Novel Diagnostic Decision-support System for Brain Tumor Detection and Classification in MRI Scans" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
+This repository is the official code for the paper "Enhanced MRI Brain Tumor Classification and Detection via Low-Rank Tensor Decomposition and Topological Data Analysis" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
 
 Link to full article [here](https://pages.github.com/).
 
@@ -12,11 +12,11 @@ If you find the project codes useful for your research, please consider citing
 
 
 ```
-@ARTICLE{,
+@ARTICLE{braintumor_tda,
   author={De Benedictis, Serena Grazia and Gargano, Grazia and Settembre, Gaetano},
-  journal={}, 
-  title={A Novel Diagnostic Decision-support System for Brain Tumor Detection and Classification in MRI Scans}, 
-  year={},
+  journal={Journal of Computational Mathematics and Data Science}, 
+  title={Enhanced MRI Brain Tumor Classification and Detection via Low-Rank Tensor Decomposition and Topological Data Analysis}, 
+  year={2024},
   volume={},
   number={},
   pages={},
