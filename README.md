@@ -20,7 +20,7 @@ If you find the project codes useful for your research, please consider citing
   volume={},
   number={},
   pages={},
-  keywords={Brain tumors, Decision-support system, Magnetic resonance imaging, Topological data analysis, Classification, Machine learning},
+  keywords={Brain tumors classification, Brain tumors detection, Magnetic resonance imaging, Topological data analysis, Machine learning, low-rank approximation, Tucker Decomposition},
   doi={}
 }
 
