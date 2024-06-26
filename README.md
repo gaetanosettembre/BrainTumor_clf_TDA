@@ -56,13 +56,13 @@ The dataset used is available [here](https://www.kaggle.com/datasets/masoudnickp
 ## Results
 
 Classification results:
-![Confusion Matrix and Classification report](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/res_cls.png?raw=true)
+![Confusion Matrix and Classification report](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/res_cls.png?raw=true)
 
 Examples of extracted ROIs:
-![ROI_glioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_glioma.png)
-![ROI_meningioma](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_meningioma.png)
-![ROI_pituitary](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_pituitary.png)
-![ROI_notumor](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/roi_notumor.png)
+![ROI_glioma](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/roi_glioma.png)
+![ROI_meningioma](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/roi_meningioma.png)
+![ROI_pituitary](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/roi_pituitary.png)
+![ROI_notumor](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/roi_notumor.png)
 
 ## License
 
