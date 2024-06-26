@@ -4,7 +4,7 @@ This repository is the official code for the paper "Enhanced MRI Brain Tumor Det
 
 Link to full article [here](https://pages.github.com/).
 
-![Workflow](https://github.com/gaetanosettembre/BrainTumor/blob/main/images/workflow_BT.png?raw=true)
+![Workflow](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/workflow_BT.png?raw=true)
 
 
 ## Citation
