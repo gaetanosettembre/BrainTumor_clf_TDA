@@ -2,7 +2,7 @@
 
 This repository is the official code for the paper "Enhanced MRI Brain Tumor Detection and Classification via Topological Data Analysis and Low-Rank Tensor Decomposition" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
 
-Link to full article [here]([https://pages.github.com/](https://www.sciencedirect.com/science/article/pii/S2772415824000142)).
+Link to full article [here](https://www.sciencedirect.com/science/article/pii/S2772415824000142).
 
 ![Workflow](https://github.com/gaetanosettembre/BrainTumor_clf_TDA/blob/main/images/workflow_BT.png?raw=true)
 
