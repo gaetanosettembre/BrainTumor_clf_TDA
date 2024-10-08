@@ -23,7 +23,7 @@ If you find the project codes useful for your research, please consider citing
   author = {De Benedictis,  Serena Grazia and Gargano,  Grazia and Settembre,  Gaetano},
   year = {2024},
   month = dec,
-  pages = {100103,
+  pages = {100103},
   keywords = {Brain tumor classification, Magnetic resonance imaging, Topological data analysis, Machine learning, Tucker decomposition}
 }
 
