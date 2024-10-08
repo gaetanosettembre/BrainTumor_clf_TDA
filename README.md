@@ -13,16 +13,18 @@ If you find the project codes useful for your research, please consider citing
 
 ```
 @ARTICLE{braintumor_tda,
-  author={De Benedictis, Serena Grazia and Gargano, Grazia and Settembre, Gaetano},
-  journal={Journal of Computational Mathematics and Data Science}, 
-  title={Enhanced MRI Brain Tumor Detection and Classification via Topological Data Analysis and Low-Rank Tensor Decomposition}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={},
-  keywords={Brain tumors classification, Brain tumors detection, Magnetic resonance imaging, Topological data analysis, Machine learning, low-rank approximation, Tucker Decomposition},
-  doi={10.1016/j.jcmds.2024.100103},
-  url={https://www.sciencedirect.com/science/article/pii/S2772415824000142}
+  title = {Enhanced MRI brain tumor detection and classification via topological data analysis and low-rank tensor decomposition},
+  volume = {13},
+  ISSN = {2772-4158},
+  url = {http://dx.doi.org/10.1016/j.jcmds.2024.100103},
+  DOI = {10.1016/j.jcmds.2024.100103},
+  journal = {Journal of Computational Mathematics and Data Science},
+  publisher = {Elsevier BV},
+  author = {De Benedictis,  Serena Grazia and Gargano,  Grazia and Settembre,  Gaetano},
+  year = {2024},
+  month = dec,
+  pages = {100103,
+  keywords = {Brain tumor classification, Magnetic resonance imaging, Topological data analysis, Machine learning, Tucker decomposition}
 }
 
 ```
