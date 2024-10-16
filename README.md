@@ -1,6 +1,7 @@
 # Enhanced MRI Brain Tumor Detection and Classification via Topological Data Analysis and Low-Rank Tensor Decomposition
 
-This repository is the official code for the paper "Enhanced MRI Brain Tumor Detection and Classification via Topological Data Analysis and Low-Rank Tensor Decomposition" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre. [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.jcmds.2024.100103)](https://juleskreuer.eu/citation-badge/)
+This repository is the official code for the paper "Enhanced MRI Brain Tumor Detection and Classification via Topological Data Analysis and Low-Rank Tensor Decomposition" by Serena Grazia De Benedictis, Grazia Gargano and Gaetano Settembre.
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.jcmds.2024.100103)](https://juleskreuer.eu/citation-badge/)
 
 Link to full article [here](https://www.sciencedirect.com/science/article/pii/S2772415824000142). 
 
