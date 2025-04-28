@@ -7,6 +7,4 @@ tensorly
 scipy
 opencv-python
 scikit-image
-os
-time
 xgboost
